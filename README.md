@@ -1,0 +1,3 @@
+# Analyzing euro-dollar exchange rates under different US presidents
+### Data Storytelling Exercise
+The goal of this project is to use data about exchange rates between the euro and the dollar through time to develop interesting pieces of data visualization that communicate clearly and elegantly relevant information about how these exchange rates varied during the mandates of US presidents Bush, Obama and Trump.
